@@ -1,3 +1,0 @@
-lex filename.l
-cc lex.yy.c
-./a.out
